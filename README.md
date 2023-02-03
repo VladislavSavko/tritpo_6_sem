@@ -87,7 +87,9 @@ PhoneShop
 ## 2.1 Программные интерфейсы
 <a name="software_interfaces"/>
 Язык программирования: Java
- API: Java EE
+
+API: Java EE
+
 Фреймворки: Lombok, Java Media Framework
 
 ## 2.2 Интерфейс пользователя
